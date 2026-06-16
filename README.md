@@ -97,10 +97,6 @@ Contributions, issues, and feature requests are welcome.
 
 This project is licensed under the MIT License.
 
----
-
-Built with ❤️ using Flask and Groq AI.
-
 ## 👨‍💻 Author
 
 **Your Name**
@@ -109,5 +105,8 @@ Built with ❤️ using Flask and Groq AI.
 * LinkedIn: (https://www.linkedin.com/in/siddem-mohan-krishna-247984378/)
 * Email: [siddemmohankrishna@gmail.com](mailto:siddemmohankrishna@gmail.com)
 
+---
+
 Passionate about building AI-powered applications with Python, Flask, and modern LLM technologies.
+Built with ❤️ using Flask and Groq AI.
 
