@@ -72,7 +72,7 @@ http://127.0.0.1:5000
 
 ## 📸 Preview
 
-<img src="static/image/robot.png" alt="AI Assistant" width="250">
+(robot.png)
 
 ## 🔑 Environment Variables
 
