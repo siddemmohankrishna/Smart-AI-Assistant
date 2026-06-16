@@ -72,7 +72,7 @@ http://127.0.0.1:5000
 
 ## 📸 Preview
 
-(robot.png)
+(https://github.com/siddemmohankrishna/Smart-AI-Assistant/blob/30bdfc1c1183ba55cf62653eb6d6de51d2b2288b/robot.png)
 
 ## 🔑 Environment Variables
 
