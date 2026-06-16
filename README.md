@@ -99,7 +99,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Siddem MohanKrishna**
 
 * GitHub: (https://github.com/siddemmohankrishna)
 * LinkedIn: (https://www.linkedin.com/in/siddem-mohan-krishna-247984378/)
