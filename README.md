@@ -103,10 +103,11 @@ Built with ❤️ using Flask and Groq AI.
 
 ## 👨‍💻 Author
 
-**Siddem MohanKrishna**
+**Your Name**
 
-* GitHub: https://github.com/your-github-username
-* LinkedIn: https://linkedin.com/in/your-linkedin-profile
-* Email: [your.email@example.com](siddemmohankrishna@gmail.com)
+* GitHub: (https://github.com/siddemmohankrishna)
+* LinkedIn: (https://www.linkedin.com/in/siddem-mohan-krishna-247984378/)
+* Email: [siddemmohankrishna@gmail.com](mailto:siddemmohankrishna@gmail.com)
 
 Passionate about building AI-powered applications with Python, Flask, and modern LLM technologies.
+
